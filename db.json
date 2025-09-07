@@ -47,10 +47,8 @@
       "id": "5fc9",
       "name": "Ramesh",
       "email": "rameshamale26@gmail.com"
-    }
+    },
 
-	{
-  "users": [
     {"id": "u001","name": "User1","email": "user1@example.com"},
     {"id": "u002","name": "User2","email": "user2@example.com"},
     {"id": "u003","name": "User3","email": "user3@example.com"},
@@ -101,11 +99,6 @@
     {"id": "u048","name": "User48","email": "user48@example.com"},
     {"id": "u049","name": "User49","email": "user49@example.com"},
     {"id": "u050","name": "User50","email": "user50@example.com"}
-  ]
-}
-
-
-
 
   ],
   "orders": [
