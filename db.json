@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Men's Cotton Jacket",
+      "price": 55.99,
+      "description": "Great outerwear jacket for spring/autumn/winter.",
+      "category": "men's clothing",
+      "image": "https://example.com/images/jacket1.png"
+    },
+    {
+      "id": "2",
+      "title": "Women's Gold Necklace",
+      "price": 120.5,
+      "description": "18K gold plated necklace with elegant design.",
+      "category": "jewelery",
+      "image": "https://example.com/images/necklace1.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "c896",
+      "name": "Ramesh",
+      "email": "rameshamale26@gmail.com"
+    },
+    {
+      "name": "Radha",
+      "email": "ra",
+      "id": "6c22"
+    },
+    {
+      "id": "a13d",
+      "name": "Ramesh",
+      "email": "rameshamale26@gmail.com"
+    },
+    {
+      "id": "cb87",
+      "name": "Ramesh",
+      "email": "rameshamale26@gmail.com"
+    },
+    {
+      "id": "70ce",
+      "name": "Dipali",
+      "email": "dipali@gmail.com"
+    },
+    {
+      "id": "5fc9",
+      "name": "Ramesh",
+      "email": "rameshamale26@gmail.com"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": 1,
+      "productId": 2,
+      "quantity": 1
+    }
+  ]
+}
